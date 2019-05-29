@@ -3,9 +3,7 @@
 int main() {
 
 	int islem = 0;
-
 	char secim;
-
 	do{
 		do {
 
